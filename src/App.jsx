@@ -16,6 +16,8 @@ function App() {
     <Home/>
     <About/>
     <Education/>
+    {/* yeh uper wala thek hai neachia wala theek nahi  */}
+    {/* fdsfsdfdsaf */}
     <Skills/>
     <Services/>
     <Contact/>
